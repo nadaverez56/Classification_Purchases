@@ -1,2 +1,4 @@
-## Classification Assignment - Machine Learning course
-This code revolves around classification models with an emphasis on model evaluation using hyper-parameter tuning for optimizing the model. 
+## Classification - Machine Learning course
+This Python code trains a classifier that predicts weather a client will make a purchase based on their height and salary. 
+
+An emphasis is given on model evaluation using hyper-parameter tuning for optimizing the model. 
