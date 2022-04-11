@@ -3,4 +3,4 @@ This Python code trains a classifier that predicts weather a client will make a 
 
 An emphasis is given on model evaluation using hyper-parameter tuning for optimizing the model. 
 
-EDA and models can be fund in the Jupyter Notebook.
+EDA and models can be found in the Jupyter Notebook.
